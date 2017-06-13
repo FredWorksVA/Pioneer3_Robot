@@ -1,3 +1,0 @@
-PioneerLibrary	KEYWORD1
-update	KEYWORD2
-straight	KEYWORD2
